@@ -9,5 +9,8 @@
 点击上方“Code”选项卡可以查看Readme.md和我们的发行版游戏，虽然我们不会讲游戏源文件直接扔进代码区
 点击上方“Discussion”可以查看我们的讨论区（虽然没有什么用 如果可以，我们建议你去百度贴吧绮丽战歌mod吧：http://tieba.baidu.com/wxf/26513623?kw=%E7%BB%AE%E4%B8%BD%E6%88%98%E6%AD%8Cmod&fr=frsshare）
 点击上方“Wiki”选项卡可以查看我们的文档
+## 重要文档
+- [绮丽战歌剧情总纲](https://github.com/HymnOfWar/Hymn-of-war-official/wiki/%E7%BB%AE%E4%B8%BD%E6%88%98%E6%AD%8C%E5%89%A7%E6%83%85%E6%80%BB%E7%BA%B2)
+
 
 ## 新闻
