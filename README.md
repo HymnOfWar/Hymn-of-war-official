@@ -14,3 +14,4 @@
 
 
 ## 新闻
+- 1202年3月24日，组内提议删除剧情上所有卡莫兰斯的信息，详见备份文档https://github.com/HymnOfWar/Hymn-of-war-official/wiki/%E7%BB%AE%E4%B8%BD%E6%88%98%E6%AD%8C%E5%89%A7%E6%83%85%E6%80%BB%E7%BA%B2%EF%BC%88%E5%88%A0%E9%99%A4kmls%EF%BC%89
