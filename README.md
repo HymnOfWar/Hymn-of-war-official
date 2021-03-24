@@ -10,8 +10,8 @@
 点击上方“Discussion”可以查看我们的讨论区（虽然没有什么用 如果可以，我们建议你去百度贴吧绮丽战歌mod吧：http://tieba.baidu.com/wxf/26513623?kw=%E7%BB%AE%E4%B8%BD%E6%88%98%E6%AD%8Cmod&fr=frsshare）
 点击上方“Wiki”选项卡可以查看我们的文档
 ## 重要文档
-- [绮丽战歌剧情总纲](https://github.com/HymnOfWar/Hymn-of-war-official/wiki/%E7%BB%AE%E4%B8%BD%E6%88%98%E6%AD%8C%E5%89%A7%E6%83%85%E6%80%BB%E7%BA%B2)
+- [绮丽战歌剧情总纲](https://github.com/HymnOfWar/Hymn-of-war-official/wiki/Plot-outline-ultimate)
 
 
 ## 新闻
-- 1202年3月24日，组内提议删除剧情上所有卡莫兰斯的信息，详见剧情修改（备份）文档[绮丽战歌剧情总纲Test1](https://github.com/HymnOfWar/Hymn-of-war-official/wiki/%E7%BB%AE%E4%B8%BD%E6%88%98%E6%AD%8C%E5%89%A7%E6%83%85%E6%80%BB%E7%BA%B2%EF%BC%88%E5%88%A0%E9%99%A4kmls%EF%BC%89)
+- 1202年3月24日，组内提议删除剧情上所有卡莫兰斯的信息，详见剧情修改（备份）文档[绮丽战歌剧情总纲Test1](https://github.com/HymnOfWar/Hymn-of-war-official/wiki/Plot-outline-Test1)
